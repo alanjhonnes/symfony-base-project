@@ -1,0 +1,25 @@
+{
+  "name": "symfony-project",
+  "version": "1.0.0",
+  "description": "base symfony project ",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Jhonnes <alan@shape.art.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-batch": "^1.0.5",
+    "gulp-notify": "^2.2.0",
+    "gulp-phpspec": "^0.5.4",
+    "gulp-plumber": "^1.1.0",
+    "gulp-watch": "^4.3.5",
+    "mocha": "^2.4.5",
+    "sinon": "^1.17.3"
+  }
+}

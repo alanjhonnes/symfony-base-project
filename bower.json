@@ -1,0 +1,21 @@
+{
+  "name": "enbox",
+  "version": "1.0.0",
+  "authors": [
+    "Alan Jhonnes <alan@shape.art.com>"
+  ],
+  "description": "",
+  "keywords": [],
+  "license": "proprietary",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+
+  }
+}
